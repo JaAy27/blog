@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joëlle Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Joëlle Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 May 2019 17:37:57 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poker game</title>
+      <link>http://example.org/posts/poker_game/</link>
+      <pubDate>Fri, 31 May 2019 17:37:57 +0100</pubDate>
+      
+      <guid>http://example.org/posts/poker_game/</guid>
+      <description>You can find the repository for my poker game here: https://github.com/ix-ds-lisbon-s1-2019/week-1-project-JaAy27 Check it out!</description>
+    </item>
+    
+    <item>
+      <title>I Love Lisbon</title>
+      <link>http://example.org/posts/i-love-lisbon/</link>
+      <pubDate>Wed, 29 May 2019 18:27:22 +0100</pubDate>
+      
+      <guid>http://example.org/posts/i-love-lisbon/</guid>
+      <description>Hello Lisbon!</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Tue, 28 May 2019 00:50:59 +0100</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      <description>Hi world
+My name is Joëlle! You can find the repository for my poker game here: https://github.com/ix-ds-lisbon-s1-2019/week-1-project-JaAy27
+Check it out!</description>
+    </item>
+    
+  </channel>
+</rss>
